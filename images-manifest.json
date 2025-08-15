@@ -1,0 +1,20 @@
+{
+  "generated_at": "2025-08-15T11:51:05.853Z",
+  "total_images": 2,
+  "images": [
+    {
+      "original_url": "https://stavlav.cz/Stavlav%20-%20www%20-%20%C3%BAvodn%C3%AD%20strana_soubory/image002.jpg",
+      "file_path": "public/images/content-1.jpg",
+      "file_name": "content-1.jpg",
+      "description": "Image from content section (fallback naming)",
+      "size_bytes": 198078
+    },
+    {
+      "original_url": "https://stavlav.cz/Stavlav%20-%20www%20-%20%C3%BAvodn%C3%AD%20strana_soubory/image004.gif",
+      "file_path": "public/images/content-2.jpg",
+      "file_name": "content-2.jpg",
+      "description": "Image from content section (fallback naming)",
+      "size_bytes": 5785
+    }
+  ]
+}
